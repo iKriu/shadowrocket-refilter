@@ -1,0 +1,10 @@
+# itdoginfo subnets: discord
+# rules: 8
+IP-CIDR,5.200.14.128/25,no-resolve
+IP-CIDR,34.0.0.0/14,no-resolve
+IP-CIDR,35.192.0.0/11,no-resolve
+IP-CIDR,66.22.192.0/18,no-resolve
+IP-CIDR,104.16.0.0/12,no-resolve
+IP-CIDR,138.128.136.0/21,no-resolve
+IP-CIDR,162.158.0.0/15,no-resolve
+IP-CIDR,172.64.0.0/13,no-resolve
